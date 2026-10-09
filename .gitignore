@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.py[cod]
+smart_recruiting.db
+uploads/*
+!.gitkeep
+.env
